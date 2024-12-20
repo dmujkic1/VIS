@@ -1,0 +1,6 @@
+Another 1st year Probability and Statistics Python project where we had to choose a new dataset from the
+Kaggle website, which had at least four numeric variables and three to four categorical variables. After
+that, analysis of the dataset was to be done using descriptive statistics and visualizations of variable
+distributions. Chi-square tests for independence were used as well, along with Kolmogorov-Smirnov and
+Shapiro-Wilk statistic tests, QQ plots as a test for normality, confidence intervals and confidence intervals
+for proportions, among others.

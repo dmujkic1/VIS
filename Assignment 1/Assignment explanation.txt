@@ -1,0 +1,5 @@
+1st year Probability and Statistics project where I had the role of team leader and motivator. The goal was
+to use Python scripts to present a certain dataset of our choice. We had to use the topics covered in our
+lectures like analytics through basic diagrams such as Scatter plots, Box plots and Histogram plots. We also
+had to design our project around questions which we predicted would be asked about our chosen dataset.
+The Bayes theorem was applied, as well as covariances and correlations.
